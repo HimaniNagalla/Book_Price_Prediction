@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Book Price Prediction project, developed as part of the MachineHack Hackathon. The objective of this hackathon is to predict the price of books based on a variety of features. The project utilizes machine learning and data science techniques to create an accurate predictive model.
+Welcome to the Book Price Prediction project. The objective of this project is to predict the price of books based on a variety of features. The project utilizes machine learning and data science techniques to create an accurate predictive model.
 
 ## Project Structure
 
