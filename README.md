@@ -1,4 +1,4 @@
-# Book Price Prediction - MachineHack Hackathon
+# Book Price Prediction 
 
 ## Introduction
 
